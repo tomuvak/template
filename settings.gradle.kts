@@ -1,3 +1,3 @@
 
-rootProject.name = "project-name"
+rootProject.name = "template"
 
